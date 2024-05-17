@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kwffayprca6ghIQzkK7TvbVciVvYe2sawKc++Zdz7S5gZi4Y05yJwqwCihr14C3WPtZSQFjvO+4HxYBMbKvIcA==",
+  "success": true,
+  "projectFilePath": "D:\\Programming Projects\\DailyManager\\DailyManager\\DailyManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sviatoslav\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

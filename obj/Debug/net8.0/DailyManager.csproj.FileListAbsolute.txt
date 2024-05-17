@@ -1,0 +1,17 @@
+D:\Programming Projects\DailyManager\DailyManager\obj\Debug\net8.0\DailyManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Projects\DailyManager\DailyManager\obj\Debug\net8.0\DailyManager.AssemblyInfoInputs.cache
+D:\Programming Projects\DailyManager\DailyManager\obj\Debug\net8.0\DailyManager.AssemblyInfo.cs
+D:\Programming Projects\DailyManager\DailyManager\obj\Debug\net8.0\DailyManager.csproj.CoreCompileInputs.cache
+D:\Programming Projects\DailyManager\DailyManager\bin\Debug\net8.0\DailyManager.exe
+D:\Programming Projects\DailyManager\DailyManager\bin\Debug\net8.0\DailyManager.deps.json
+D:\Programming Projects\DailyManager\DailyManager\bin\Debug\net8.0\DailyManager.runtimeconfig.json
+D:\Programming Projects\DailyManager\DailyManager\bin\Debug\net8.0\DailyManager.dll
+D:\Programming Projects\DailyManager\DailyManager\bin\Debug\net8.0\DailyManager.pdb
+D:\Programming Projects\DailyManager\DailyManager\obj\Debug\net8.0\DailyManager.dll
+D:\Programming Projects\DailyManager\DailyManager\obj\Debug\net8.0\refint\DailyManager.dll
+D:\Programming Projects\DailyManager\DailyManager\obj\Debug\net8.0\DailyManager.pdb
+D:\Programming Projects\DailyManager\DailyManager\obj\Debug\net8.0\DailyManager.genruntimeconfig.cache
+D:\Programming Projects\DailyManager\DailyManager\obj\Debug\net8.0\ref\DailyManager.dll
+D:\Programming Projects\DailyManager\DailyManager\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Programming Projects\DailyManager\DailyManager\obj\Debug\net8.0\DailyManager.csproj.AssemblyReference.cache
+D:\Programming Projects\DailyManager\DailyManager\obj\Debug\net8.0\DailyMan.B8421C8D.Up2Date
